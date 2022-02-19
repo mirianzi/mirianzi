@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mirianzi
+- 👀 I’m interested in human-computer interaction
+- 🌱 I’m currently learning UX design
+- 💞️ I’m looking to collaborate on web and app development
+- 📫 Email me @ mirian.zi.han@gmail.com
